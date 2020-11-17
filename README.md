@@ -64,6 +64,7 @@ The code above functions as displaying a '5 days' countdown.A digital clock you 
 | prop | type | required | default | detail |
 | ---- | ---- | ---- | ---- | ---- |
 | part | String | No | "second" | Determine which 'part of time' of a timer to be displayed(for example:hour,minute,second). |
+
 Available value of prop 'part':
 | value | detail |
 | ---- | ---- |
