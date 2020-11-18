@@ -34,7 +34,7 @@ The tag \<all-count-down\> which represent the component is an inline tag. It di
 | prop | type | required | default | detail |
 | ---- | ---- | ---- | ---- | ---- |
 | name | String | Yes | undefined | We use it to identify the timer.This prop is critical,so make sure you had it valued. |
-| seconds | Number | No | 60 | The time the countdown starts at,in seconds,the default is 60.|
+| seconds | Number | No | 0 | The time the countdown starts at,in seconds. |
 | minutes | Number | No | 0 | The time the countdown starts at,in minutes. |
 | hours | Number | No | 0 | The time the countdown starts at,in hours. |
 | days | Number | No | 0 | The time the countdown starts at,in days. |
